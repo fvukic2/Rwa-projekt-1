@@ -1,0 +1,6 @@
+Werkzeug==0.16.1
+flask
+flask-restplus
+requests
+Flask-SQLAlchemy
+PyJWT 
